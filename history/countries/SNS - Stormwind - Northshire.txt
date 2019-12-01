@@ -1,0 +1,68 @@
+# Stormwind
+government 			= theocracy
+mercantilism 		= 10
+technology_group 	= tech_human 
+religion			= religion_church_of_the_light
+primary_culture 	= culture_azerothian
+capital 			= 619
+government_rank = 6
+religious_school = brotherhood_of_northshire
+
+historical_friend = A01
+historical_friend = A02
+historical_friend = A03
+historical_friend = A04
+historical_friend = A05
+
+546.1.1 = { 
+	monarch = { 
+		name = "Johannes" 
+		dynasty = "Moorwhelp" 
+		adm = 4
+		dip = 3
+		mil = 3 
+ 	} 
+ 	capital = 619
+} 
+
+592.1.1 = { 
+	monarch = { 
+		name = "Johannes" 
+		dynasty = "Moorwhelp" 
+		adm = 6
+		dip = 3
+		mil = 4 
+ 	} 
+} 
+
+597.1.1 = {
+    monarch = { 
+		name = "Johannes" 
+		dynasty = "Moorwhelp" 
+		adm = 3
+		dip = 3
+		mil = 6 
+ 	}
+	secondary_religion = religion_arcane
+}
+ 
+622.1.1 = { 
+	monarch = { 
+		name = "Johannes" 
+		dynasty = "Moorwhelp" 
+		adm = 2
+		dip = 7
+		mil = 1 
+ 	} 
+}
+ 
+626.1.1 = { 
+	monarch = { 
+		name = "Johannes" 
+		dynasty = "Moorwhelp" 
+		adm = 5
+		dip = 4
+		mil = 7 
+ 	}
+} 
+ 

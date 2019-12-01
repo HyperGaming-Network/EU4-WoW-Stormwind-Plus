@@ -1,0 +1,5 @@
+SGS = "countries/Stormwind - Goldshire.txt"
+SDR = "countries/Stormwind - Dorens Rebels.txt"
+SNS = "countries/Stormwind - Northshire.txt"
+SRT = "countries/Stormwind - Ridgepoint tower.txt"
+SWG = "countries/Stormwind - Westbrook garrison.txt"

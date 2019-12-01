@@ -1,0 +1,67 @@
+# Stormwind
+government 			= monarchy
+mercantilism 		= 10
+technology_group 	= tech_human 
+religion			= religion_church_of_the_light
+primary_culture 	= culture_azerothian
+capital 			= 1058
+government_rank = 6
+religious_school = brotherhood_of_northshire
+
+historical_friend = A01
+historical_friend = A02
+historical_friend = A03
+historical_friend = A04
+historical_friend = A05
+
+546.1.1 = { 
+	monarch = { 
+		name = "Albert" 
+		dynasty = "Montclair" 
+		adm = 4
+		dip = 3
+		mil = 3 
+ 	} 
+} 
+
+592.1.1 = { 
+	monarch = { 
+		name = "Albert" 
+		dynasty = "Montclair" 
+		adm = 6
+		dip = 3
+		mil = 4 
+ 	} 
+} 
+
+597.1.1 = {
+    monarch = { 
+		name = "Maxen" 
+		dynasty = "Montclair" 
+		adm = 3
+		dip = 3
+		mil = 6 
+ 	}
+	secondary_religion = religion_arcane
+}
+ 
+622.1.1 = { 
+	monarch = { 
+		name = "Maxen" 
+		dynasty = "Montclair" 
+		adm = 2
+		dip = 7
+		mil = 1 
+ 	} 
+}
+ 
+626.1.1 = { 
+	monarch = { 
+		name = "Maxen" 
+		dynasty = "Montclair" 
+		adm = 5
+		dip = 4
+		mil = 7 
+ 	}
+} 
+ 

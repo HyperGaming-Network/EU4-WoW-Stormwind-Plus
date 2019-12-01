@@ -1,0 +1,44 @@
+#########################
+### Stormwind Other Vassals ###
+#########################
+
+# Stormwind - Stranglethorn Expedition
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = A01
+	second = SDR
+	start_date = 546.1.1
+	end_date = 640.1.1
+}
+# Stormwind - Goldshire
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = A01
+	second = SGS
+	start_date = 546.1.1
+	end_date = 640.1.1
+}
+# Stormwind - Northshire
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = A01
+	second = SNS
+	start_date = 546.1.1
+	end_date = 640.1.1
+}
+# Stormwind - Eastburg
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = A01
+	second = SRT
+	start_date = 546.1.1
+	end_date = 640.1.1
+}
+# Stormwind - Westridge
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = A01
+	second = SWG
+	start_date = 546.1.1
+	end_date = 640.1.1
+}
